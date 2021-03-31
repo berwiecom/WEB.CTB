@@ -1,17 +1,27 @@
-#### SENT
-#### youtube-dl
-## Download only format mp4 on youtube-dl
-https://unix.stackexchange.com/questions/272868/download-only-format-mp4-on-youtube-dl
-https://unix.stackexchange.com/posts/272934/edit
+#### Wallpaper auto change
+
+https://unix.stackexchange.com/questions/397169/
+
+FEH
+
+https://packages.debian.org/stretch/feh
 
 
-  [2]: https://github.com/ytdl-org/youtube-dl#video-selection
+------------------------------------------------------------------------------------------
 
-Fix youtube-dl URL; point link fragment to 'Video Selection'.
 
----
+
+`echo` could be replaced w/ `<<<` too, but then quotation marks are needed und the simplicity of termbin isn't obvious any more.
+At first glance I did't recognize whether it's the number '1' or the letter 'l' in 'l.termbin.com' and 
+
+
+
+
+------------------------------------------------------------------------------------------
+
 
 #### termbin.com
+
 ## Easy way to paste command line output to paste bin services?
 
 https://unix.stackexchange.com/questions/108493/easy-way-to-paste-command-line-output-to-paste-bin-services
@@ -42,3 +52,17 @@ You can host your own server as well, there is github repository: [https://githu
   [2]: https://github.com/solusipse/fiche
   ```
 
+------------------------------------------------------------------------------------------
+
+
+#### SENT
+#### youtube-dl
+
+## Download only format mp4 on youtube-dl
+https://unix.stackexchange.com/questions/272868/download-only-format-mp4-on-youtube-dl
+https://unix.stackexchange.com/posts/272934/edit
+
+
+  [2]: https://github.com/ytdl-org/youtube-dl#video-selection
+
+Fix youtube-dl URL; point link fragment to 'Video Selection'.
